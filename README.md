@@ -2,7 +2,7 @@
 description: Refine开发团队插件Wiki
 ---
 
-# Refine Development Plugins Wiki
+# Home
 
 ## Overview
 
