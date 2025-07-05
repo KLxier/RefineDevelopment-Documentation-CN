@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Refine Development Documentation](README.md)
+* [👋 Refine Development Plugins Wiki](README.md)
 
 ## Overview
 
