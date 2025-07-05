@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Refine Development Documentation/CN](README.md)
 
 ## Overview
 
